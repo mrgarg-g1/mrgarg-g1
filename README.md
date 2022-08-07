@@ -26,12 +26,12 @@
 ----
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m intern at Softdot and major contributing to backend side.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical things for now.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank and Hackathon.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-garg-680115120/)
 ----
