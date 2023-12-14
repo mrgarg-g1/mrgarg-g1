@@ -25,7 +25,7 @@
 
 ----
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m intern at Softdot and major contributing to backend side.
 
@@ -33,10 +33,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on Hackerrank and Hackathon.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-garg-680115120/)
+- : How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-garg-680115120/)
 ----
 
-### :hammer_and_wrench: Languages and Tools :
+### : Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -46,9 +46,3 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
 ---
 
-### :fire: My Stats :  
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrgarg-g1&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgarg-g1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
