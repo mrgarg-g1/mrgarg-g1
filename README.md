@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/data-online-technology-internet-circuit-board-concept_53876-122988.jpg?t=st=1719914814~exp=1719918414~hmac=5930e9d271fb359f4483d705434041e24cbe6f05397197e6727237ac7931b634&w=1060" alt="MasterHead" style="width:1000px;">
+<img src="https://github.com/mrgarg-g1/Certificates/blob/main/img1.jpg" alt="MasterHead" style="width:1000px;">
 <h1 align="center">Hey! 👋, I'm Deepak Garg</h1>
 <h3 align="center">Aspiring data scientist with a passion for learning and innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mrgarg-g1/Certificates/blob/main/image_processing20210906-21747-1my2eko.gif">
