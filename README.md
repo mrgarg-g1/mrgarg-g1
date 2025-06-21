@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrgarg_g1" target="blank"><img src="https://img.shields.io/twitter/follow/mrgarg_g1?logo=twitter&style=for-the-badge" alt="mrgarg_g1" /></a> </p>
 
-- 🔭 I’m currently working in **Areness**
+- 🔭 I’m currently working in **Appsquadz (AWS PARTNER)**
 
 - 🌱 I’m currently learning **NLP,Large Language Model.**
 
